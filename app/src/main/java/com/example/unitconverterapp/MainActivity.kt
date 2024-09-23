@@ -215,24 +215,7 @@ fun UnitConverter(modifier: Modifier){
         }
 
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
 @Preview(showBackground = true)
 @Composable
 fun UnitConverterPreview(){
